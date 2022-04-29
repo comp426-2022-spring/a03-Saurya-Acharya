@@ -79,7 +79,7 @@ function countFlips(array) {
     }
     else{
       tails+=1;
-    }
+    } 
   }
 
   if (tails == 0) {
