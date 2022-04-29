@@ -2,7 +2,7 @@
   "name": "a03-saurya-acharya",
   "version": "0.0.1",
   "description": "API",
-  "main": "server.js",
+  "main": "server.js", 
   "scripts": {
     "test": "node server.js --port=5555",
     "start": "node server.js"
