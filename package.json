@@ -1,0 +1,24 @@
+{
+  "name": "a03-saurya-acharya",
+  "version": "0.0.1",
+  "description": "API",
+  "main": "server.js", 
+  "scripts": {
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a03-Saurya-Acharya.git"
+  },
+  "author": "Saurya Acharya",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a03-Saurya-Acharya/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a03-Saurya-Acharya#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "minimist": "^1.2.5"
+  }
+}
